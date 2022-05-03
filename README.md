@@ -1,1 +1,1 @@
-# WalmartSalesTimeSeries
+# Walmart Sales Time Series
